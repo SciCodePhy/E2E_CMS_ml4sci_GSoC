@@ -1,9 +1,11 @@
 # E2E and CMS (ml4sci) Evaluation Tasks
 Chenguang Guan's solutions to ml4sci GSoC evaluation tests (E2E and CMS)
 
-1. Task-1: E2E_and_CMS_task1_pytorch.ipynb ; E2E_and_CMS_task1_tensorflow.ipynb
-2. Task-2: E2E_and_CMS_task2.ipynb
-3. Additional Task (transformer): E2E_and_CMS_Additional_Task_ViT.ipynb ; E2E_and_CMS_Additional_Task_ViT_Bonus.ipynb
+There are five notebooks:
+
+1. Task-1 (2 files): E2E_and_CMS_task1_pytorch.ipynb ; E2E_and_CMS_task1_tensorflow.ipynb
+2. Task-2 (1 file): E2E_and_CMS_task2.ipynb
+3. Additional Task (2 files): E2E_and_CMS_Additional_Task_ViT.ipynb ; E2E_and_CMS_Additional_Task_ViT_Bonus.ipynb
 
 I have completed:
 1. Solutions to Task 1 (both in pytorch and TensorFlow). The pytorch note includes more details and discussion.
